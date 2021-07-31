@@ -9,14 +9,14 @@
   vertical-align:bottom;
   color: white;
   background: white;
-  text-shadow: 0 0 .5rem black;
+  text-shadow: 0 0 .15rem rgb(117, 117, 117);
 }
 
 .playing {
-  transform: scale(1.1);
-  border-color: #ff0073;
+  transform: scale(1.01);
+  /* border-color: #ffc5df; */
   box-shadow: 0 0 1rem #ff67bf;
-  background-color: #ff60cf;
+  background-color: #ffabe6;
 }
 
 kbd {
